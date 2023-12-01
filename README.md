@@ -1,10 +1,9 @@
 
-# Task Me - Organizador de Tarefas
+# Task Me - Organizador de Tarefas (Frontend)
 
-Projeto desenvolvido com o objetivo de criar uma plataforma para organização de tarefas diárias do usuário.
+Frontend do projeto Task Me, desenvolvido com o objetivo de criar uma plataforma para organização de tarefas diárias do usuário.
 
-
-
+A API do projeto pode ser acessado por este link: [TaskMeAPI](https://github.com/arthur-lima18/task-me-api)
 
 ## Instalação
 
@@ -24,10 +23,13 @@ Para a execução do projeto:
 
 ## Tecnologias Utilizadas
 
-React.JS, C#
+React.JS, Vite.JS, Node.JS, Jest, MySQL
 
 
 ## Referências
 
  - [React.JS](https://pt-br.react.dev)
- - [C#](https://learn.microsoft.com/pt-br/dotnet/csharp/)
+ - [Node.JS](https://nodejs.org/en/docs)
+ - [Vite.JS](https://vitejs.dev)
+ - [Jest](https://jestjs.io/pt-BR/)
+ - [MySQL](https://www.mysql.com)
